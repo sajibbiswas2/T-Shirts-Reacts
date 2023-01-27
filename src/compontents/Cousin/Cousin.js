@@ -5,7 +5,7 @@ const Cousin = ({house}) => {
     return (
         <div>
             <h2>Cousin</h2>
-               <p><small>House:{house}</small></p>
+               <p><small>Houses:{house}</small></p>
                <section>
                 <Friend></Friend>
                </section>
