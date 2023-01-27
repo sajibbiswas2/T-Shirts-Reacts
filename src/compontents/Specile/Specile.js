@@ -6,7 +6,7 @@ const Specile = ()=> {
     return (
         <div>
             <h2>specile</h2>
-            <p>Gift:{house}</p>
+            <p>gift:{house}</p>
             <button onClick={()=>setHouse(house+1)}>Increase</button>
         </div>
     );
